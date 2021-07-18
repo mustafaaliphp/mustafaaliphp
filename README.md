@@ -1,5 +1,5 @@
 ## Mustafa Ali 👋
-#1DA1F2 [Linkedin](https://www.linkedin.com/in/mustafa-ali-9a7213198/) [Instagram](https://www.instagram.com/mustafaphp/) [Twitter](https://twitter.com/mustafafuadali)
+https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg [Linkedin](https://www.linkedin.com/in/mustafa-ali-9a7213198/) [Instagram](https://www.instagram.com/mustafaphp/) [Twitter](https://twitter.com/mustafafuadali)
 
 
 ## Hello World!:earth_americas: 
