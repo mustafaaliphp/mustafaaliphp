@@ -1,6 +1,7 @@
 ### Mustafa Ali 👋
 Hello World!:earth_americas: 
 
+I'm Mustafa Ali and a U.S. citizen, Jordanian :jordan: and American 🇮🇹 , currently I'm a Software Engineer in Chicago , passionate about solving problems with technology and creating different solutions.
 
 <!--
 **mustafaaliphp/mustafaaliphp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
