@@ -1,4 +1,3 @@
-## Mustafa Ali 👋
 [Linkedin](https://www.linkedin.com/in/mustafa-ali-9a7213198/) [Instagram](https://www.instagram.com/mustafaphp/) [Twitter](https://twitter.com/mustafafuadali)
 
 
