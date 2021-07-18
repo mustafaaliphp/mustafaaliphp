@@ -1,6 +1,6 @@
 ## Mustafa Ali 👋
-###Hello World!:earth_americas: 
-[linkedin](www.linkedin.com/in/mustafa-ali-9a7213198).
+### Hello World!:earth_americas: 
+[Linkedin](www.linkedin.com/in/mustafa-ali-9a7213198). [Instagram](https://www.instagram.com/mustafaphp/). [Twitter](https://twitter.com/mustafafuadali). 
 I'm Mustafa Ali and a U.S. citizen, Jordanian :jordan: and American 🇮🇹 , currently I'm a Software Engineer in Chicago :computer: , passionate about solving problems with technology and creating different solutions.
 
 Stay free to know a little more about my life, follow me on my networks where I share a little more about myself. I love to make new friends and learn new things. :rocket: :computer:
