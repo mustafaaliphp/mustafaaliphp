@@ -1,4 +1,4 @@
-### Mustafa Ali 👋
+# Mustafa Ali 👋
 Hello World!:earth_americas: 
 
 I'm Mustafa Ali and a U.S. citizen, Jordanian :jordan: and American 🇮🇹 , currently I'm a Software Engineer in Chicago :computer: , passionate about solving problems with technology and creating different solutions.
