@@ -5,9 +5,9 @@ I'm Mustafa Ali and a U.S. citizen, Jordanian :jordan: and American 🇮🇹 , c
 
 Stay free to know a little more about my life, follow me on my networks where I share a little more about myself. I love to make new friends and learn new things. :rocket: :computer:
 
-:house_with_garden: I love being with my family and friends, they are everything to me.
-:airplane: I love to travel and get to know new places and cultures.
-:soccer: Passionate about soccer.
+*:house_with_garden: I love being with my family and friends, they are everything to me.
+*:airplane: I love to travel and get to know new places and cultures.
+*:soccer: Passionate about soccer.
 <!--
 **mustafaaliphp/mustafaaliphp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
