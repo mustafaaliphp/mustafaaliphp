@@ -2,7 +2,7 @@
 [Linkedin](https://www.linkedin.com/in/mustafa-ali-9a7213198/) [Instagram](https://www.instagram.com/mustafaphp/) [Twitter](https://twitter.com/mustafafuadali)
 
 
-## Hello World!:earth_americas: 
+## Hello World! :earth_americas: 
 
 I'm Mustafa Ali and a U.S. citizen, currently I'm a Software Engineer :computer: in Chicago, passionate about solving problems with technology and creating different solutions.
 
